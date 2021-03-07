@@ -1,2 +1,24 @@
-# Taskboard
-CRUD creado con Vue.js siguiendo un poco la metodología atomic design. npm intall para descargar las dependencias
+# taskboard
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
